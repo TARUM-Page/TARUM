@@ -1,0 +1,132 @@
+🔥 Rewritten Prompt: Tarum.ai – Monochrome Immersive Landing Page
+Company Name: Tarum.ai
+Tagline: “Fueling Creativity with Generative AI”
+Mission: A unified platform combining the latest in generative AI: image editing, text-to-image, text-to-video, 3D object creation, upscaling, and beyond.
+
+🎨 Design System & Theme Changes
+Element	Update
+Color Palette	Monochrome only: black, white, grayscale (no color accents)
+Visual Style	Liquid Glassmorphism (translucent panels, blurred frosted-glass UI)
+Theme Toggle	Add button to switch between:
+🌓 Inverted Modes — Light-on-dark (default) / Dark-on-light	
+
+📄 One-Page Layout Overview
+1️⃣ Hero Section – “Create Everything. Just with a Prompt.”
+Full-screen immersive background: Black & white 3D scene using Spline, Three.js, or Lottie
+(Use minimal particle effects or neural mesh blobs in grayscale)
+
+Animated Tarum.ai logo (fluid, glowing in white over black)
+
+Tagline (bold):
+“Create Everything. Just with a Prompt.”
+
+Supporting Text:
+“AI Image Editor, Text-to-Image, Text-to-Video, 3D Generation, and more—on one intelligent platform.”
+
+Glassmorphic Email Sign-Up Form with [ Join the Beta ] CTA
+(Translucent input box + hover-glow button)
+
+Animated scroll cue (white arrow morphing into text)
+
+Extra Touch: Scroll-triggered parallax intro or page-loading animation in grayscale
+
+2️⃣ Our Vision – “Designed for the Future of Creation”
+Headline:
+“Designed for the Future of Creation”
+
+Text:
+“At Tarum.ai, we envision a world where anyone can bring their imagination to life with Generative AI. Our mission is to empower creators, designers, and developers to generate, enhance, and animate content instantly—with no boundaries.”
+
+Visuals:
+
+Scroll-triggered black & white Lottie animations
+
+Background ambient motion shifts (grayscale gradients + glass panels)
+
+Liquid distortion reveal as user scrolls
+
+3️⃣ Product Section – “All-in-One AI Creative Suite”
+UI Style: Liquid glassmorphic tabs or horizontally scrollable cards
+
+Feature Display (Black/White hover cards):
+
+🖼 AI Image Editor – Prompt-based editing and retouching
+
+🧠 Text to Image – Create high-fidelity B/W renders from text
+
+🎬 Text to Video – Convert prompts into stylized motion clips
+
+🔍 Image Upscaling – Enhance clarity with super-resolution
+
+🧊 3D Generator – Describe objects, get immersive 3D output
+
+🔜 More to Come – Tease future features (voice AI, scenes)
+
+Micro-interactions: grayscale glow, hover effects, icon morphs
+
+(Optionally include embedded grayscale demo previews)
+
+4️⃣ Launching Soon – “We’re Almost Ready”
+Headline:
+“We’re Almost Ready”
+
+Subtext:
+“The first wave of beta testers is coming. Want in?”
+
+Email CTA:
+Large input form with [ Join the Beta ] button (glassmorphic panel)
+
+Optional:
+
+Countdown timer (white on black with liquid animation)
+
+Waitlist bar (animated grayscale fill)
+
+Social Links (icon-only): Discord, LinkedIn, X/Twitter — black-and-white versions only
+
+5️⃣ Team – “Meet Our Builders”
+Team Layout: Circular grayscale profile pics or floating 3D avatars in black & white
+
+Team Roles:
+
+CEO
+
+Lead Developer
+
+4x AI Scientists
+
+2x Backend Engineers
+
+1x Intern (boy)
+
+Interaction:
+Hover or click for name, title, short bio (slide or glass reveal)
+
+Animations: Subtle fade-ins, grayscale glow-on-hover, floating effect
+
+6️⃣ Footer – Minimal, Elegant, Glassmorphic
+Structure:
+
+Contact Info
+
+Social Media Links (Discord, X, LinkedIn)
+
+Privacy Policy | Terms of Use
+
+© 2025 Tarum.ai. All rights reserved.
+
+Extras:
+
+Dark/light toggle button (in header or footer)
+
+Smooth transitions between themes
+
+🧠 Technical & Creative Guidelines (Updated)
+Aspect	Description
+Theme	Monochrome only — Black, White, and grayscale variants
+Style	Liquid Glassmorphism (frosted glass UIs, blurred transparency)
+Fonts	Inter, Satoshi, or futuristic sans-serif with clean mono weights
+Animations	Scroll-triggered reveals, grayscale morphs, 3D motion on hover
+3D Elements	Use Spline, Lottie, or Three.js for black/white-only ambient animations
+Dark Mode	Default: dark mode (black bg, white accents), Toggle to light
+Performance	Lazy-load heavy scripts, optimize for mobile & tablet devices
