@@ -22,8 +22,8 @@ export function HeroSection() {
     >
       {/* Gradient Background */}
       <div className="absolute inset-0 z-0">
-        <div className="absolute inset-0 bg-gradient-to-br from-white via-gray-100 to-gray-200 dark:from-black dark:via-gray-800 dark:to-gray-900"></div>
-        <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-gray-200/30 to-gray-300/20 dark:via-gray-700/20 dark:to-gray-600/30"></div>
+        <div className="absolute inset-0 bg-gradient-to-br from-white via-gray-100 to-gray-200 dark:from-black dark:via-gray-900 dark:to-black"></div>
+        <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-gray-200/30 to-gray-300/20 dark:via-white/5 dark:to-white/10"></div>
         <div className="absolute inset-0 bg-gradient-to-b from-background/10 via-transparent to-background/20"></div>
       </div>
 
