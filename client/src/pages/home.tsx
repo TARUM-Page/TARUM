@@ -22,35 +22,35 @@ export default function Home() {
       <ThemeToggle />
       
       {/* Navigation */}
-      <nav className="fixed top-0 left-0 right-0 z-40 glass border-b transition-all duration-300 backdrop-blur-md">
+      <nav className="fixed top-0 left-0 right-0 z-40 border-b transition-all duration-300">
         <div className="max-w-7xl mx-auto px-6 py-3">
           <div className="flex items-center justify-between">
             {/* Brand Logo */}
-            <div className="text-2xl font-bold">TARUM</div>
+            <div className="text-2xl font-bold glass px-4 py-2 rounded-lg">TARUM</div>
             
             {/* Centered Navigation */}
-            <div className="absolute left-1/2 transform -translate-x-1/2 hidden md:flex items-center space-x-12 glass rounded-full px-8 py-3">
+            <div className="absolute left-1/2 transform -translate-x-1/2 hidden md:flex items-center space-x-12 rounded-full px-8 py-3">
               <button
                 onClick={() => scrollToSection("hero")}
-                className="text-sm font-medium hover:opacity-75 transition-opacity px-4 py-2 rounded-full hover:glass"
+                className="text-sm font-medium glass px-4 py-2 rounded-full hover:scale-105 transition-all duration-300"
               >
                 Home
               </button>
               <button
                 onClick={() => scrollToSection("products")}
-                className="text-sm font-medium hover:opacity-75 transition-opacity px-4 py-2 rounded-full hover:glass"
+                className="text-sm font-medium glass px-4 py-2 rounded-full hover:scale-105 transition-all duration-300"
               >
                 Products
               </button>
               <button
                 onClick={() => scrollToSection("vision")}
-                className="text-sm font-medium hover:opacity-75 transition-opacity px-4 py-2 rounded-full hover:glass"
+                className="text-sm font-medium glass px-4 py-2 rounded-full hover:scale-105 transition-all duration-300"
               >
                 Vision
               </button>
               <button
                 onClick={() => scrollToSection("launch")}
-                className="text-sm font-medium hover:opacity-75 transition-opacity px-4 py-2 rounded-full hover:glass"
+                className="text-sm font-medium glass px-4 py-2 rounded-full hover:scale-105 transition-all duration-300"
               >
                 Waitlist
               </button>
