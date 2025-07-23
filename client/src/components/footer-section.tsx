@@ -24,8 +24,7 @@ export function FooterSection() {
 
           <div>
             <h5 className="font-semibold mb-4">Contact</h5>
-            <p className="opacity-80 text-sm mb-2">admin@tarum.ai</p>
-            <p className="opacity-80 text-sm">Dubai, UAE</p>
+            <p className="opacity-80 text-sm">admin@tarum.ai</p>
           </div>
 
 
